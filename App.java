@@ -25,6 +25,8 @@ public class App {
 
         randomizer(students, numOfStd);
 
+        System.out.println("CODE from the second device");
+
         
     }
 
